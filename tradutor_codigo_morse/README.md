@@ -90,5 +90,3 @@ O -> ---
 O Código Morse é um sistema de codificação de texto onde cada letra ou número é representado por uma combinação única de pontos `.` e traços `-`.
 
 ---
-
-Se quiser, posso gerar o `.md` formatado para colocar direto no GitHub. Quer que eu faça isso?
